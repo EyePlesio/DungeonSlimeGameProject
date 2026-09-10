@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
       {
-        "name": "C#: DungeonSlimeGame Debug",
+        "name": "C#: DungeonSlime Debug",
         "type": "dotnet",
         "request": "launch",
-        "projectPath": "${workspaceFolder}/DungeonSlimeGame.csproj"
+        "projectPath": "${workspaceFolder}/DungeonSlime.csproj"
       }
     ],
   }
